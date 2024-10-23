@@ -1,7 +1,7 @@
 <h2>Here is a Flow of Project</h2>
 
 <h4>Step 1:</h4>
-<img src = "">
+<img src = "https://github.com/Tanay7227/Movie_Recommendation_System./blob/main/Movie%20Recommendation%20System/Images/1.png">
 <h4>Step 2:</h4>
 <img src = "">
 <h4>Step 3:</h4>
